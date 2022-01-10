@@ -71,7 +71,7 @@ services:
 then dockorized it: 
 Docker-compose up -d 
 
-mySQL DB must display after this step when search about Localhost:8080 in the browser
+mySQL DB must display after this step when search about http://localhost:8080 in the browser
 The defualt username and password are: 
 username: Root
 Password: example 
